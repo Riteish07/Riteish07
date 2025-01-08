@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteish07&show_icons=true&locale=en" alt="riteish07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riteish07&" alt="riteish07" /></p>
+
